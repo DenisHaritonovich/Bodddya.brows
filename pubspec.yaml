@@ -1,5 +1,4 @@
 name: bodddya_brows
-description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -24,8 +23,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  calendar_timeline:
-  intl: ^0.16.0
+  calendar_timeline: ^0.7.1
+  intl: ^0.17.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
